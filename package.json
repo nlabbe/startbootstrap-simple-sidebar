@@ -24,6 +24,7 @@
     "repository": "https://github.com/BlackrockDigital/startbootstrap-simple-sidebar.git",
     "dependencies": {
         "bootstrap": "4.2.1",
+        "gitgraph.js": "^1.15.1",
         "jquery": "3.3.1"
     },
     "devDependencies": {
