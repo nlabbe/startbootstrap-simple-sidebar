@@ -21,10 +21,7 @@
     "contributors": [
         "David Miller (http://davidmiller.io/)"
     ],
-    "repository": {
-        "type": "git",
-        "url": "https://github.com/BlackrockDigital/startbootstrap-simple-sidebar.git"
-    },
+    "repository": "https://github.com/BlackrockDigital/startbootstrap-simple-sidebar.git",
     "dependencies": {
         "bootstrap": "4.2.1",
         "jquery": "3.3.1"
@@ -32,5 +29,6 @@
     "devDependencies": {
         "browser-sync": "2.26.3",
         "gulp": "4.0.0"
-    }
+    },
+    "main": "index.js"
 }
